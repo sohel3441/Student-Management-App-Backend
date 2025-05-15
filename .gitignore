@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.*.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional: coverage directory (from testing tools like Jest)
+coverage/
+
+# Optional: build output (if applicable)
+dist/
+build/
+
+# Optional: editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: MongoDB dump folder (if you use mongodump locally)
+dump/
