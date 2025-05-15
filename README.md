@@ -29,14 +29,13 @@ git clone https://github.com/sohel3441/Student-Management-App-Backend.git
 
 cd student-management-backend
 
-
 ## Install Dependencies
 npm install
 
 
 ##  Add Environment Variables
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
+PORT=3000
+MONGODB_URI=mongodb+srv://shaikhsohel113441:kXtdrAk96J1FzeRD@student-management-clus.6kyc3tb.mongodb.net/?retryWrites=true&w=majority&appName=Student-Management-Cluster
 
 ## Start the Server
 npm start
